@@ -7,7 +7,7 @@ function HeroSeciton() {
   return (
     <div className="px-2 sm:px-0 py-20 mx-auto text-center flex flex-col items-center max-w-[52rem] z-50 overflow-y-hidden ">
       <Link
-        href={"https://github.com/taqui-786/mixui"}
+        href={"https://github.com/ArhanAnsari/mixui"}
         className="w-fit border rounded-full text-sm mb-5 px-2 py-1 font-semibold animate-pulse border-black"
       >
         ⭐ | Star it on Github &rarr;

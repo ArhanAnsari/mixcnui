@@ -43,7 +43,7 @@ function Navbar() {
           <div className="flex items-center gap-4">
             <div className="flex gap-3 sm:gap-4">
               <Link
-                href={"https://github.com/ArhanAnsari/mixui"}
+                href={"https://github.com/ArhanAnsari/mixcnui"}
                 target="_blank"
                 className="p-1 hover:bg-gray-100"
               >
